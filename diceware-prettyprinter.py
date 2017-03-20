@@ -1,4 +1,4 @@
-#!/usr/env/python3
+#!/usr/bin/env python3
 #
 # Copyright 2017 Lizhou Sha
 #
